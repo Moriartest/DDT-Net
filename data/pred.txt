@@ -1,0 +1,10 @@
+E:/Projects/Python/DDT-Net/img/56.jpg,E:/Projects/Python/DDT-Net/img/groundtruths/56.jpg
+E:/Projects/Python/DDT-Net/img/2369.jpg,E:/Projects/Python/DDT-Net/img/groundtruths/2369.jpg
+E:/Projects/Python/DDT-Net/img/6716.jpg,E:/Projects/Python/DDT-Net/img/groundtruths/6716.jpg
+E:/Projects/Python/DDT-Net/img/10097.jpg,E:/Projects/Python/DDT-Net/img/groundtruths/10097.jpg
+E:/Projects/Python/DDT-Net/img/19200.jpg,E:/Projects/Python/DDT-Net/img/groundtruths/19200.jpg
+E:/Projects/Python/DDT-Net/img/000000581726.jpg,None
+E:/Projects/Python/DDT-Net/img/000000571596.jpg,None
+E:/Projects/Python/DDT-Net/img/000000358136.jpg,None
+E:/Projects/Python/DDT-Net/img/000000271057.jpg,None
+E:/Projects/Python/DDT-Net/img/000000164043.jpg,None
