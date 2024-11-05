@@ -1,0 +1,7 @@
+torch==2.1.0
+torchvision==0.6.1
+yacs==0.1.8
+numpy==1.19.5
+opencv
+torchvision==0.16.0
+scikit-learn==0.24.1
