@@ -1,6 +1,6 @@
 # DDT-Net
 
-<img src="https://github.com/Moriartest/DDT-Net/blob/master/ReadMe_IMG/ddt4.png?raw=true" width="500" height="400">
+<img  src="https://github.com/Moriartest/DDT-Net/blob/master/ReadMe_IMG/ddt4.png?raw=true" width="600" height="500">
 
 ### Environment
 + Python 3.9
@@ -53,6 +53,7 @@ Please `pip install` the following packages:
  
 __Note: The input image size can be modified in line 64 of predict.py. In this example, the image is input at 640*640.
 
+## Results
 <table>
   <tr>
     <th rowspan="2">方法</th>
@@ -251,6 +252,8 @@ __Note: The input image size can be modified in line 64 of predict.py. In this e
   </tr>
 </table>
 
+##### Keywords
+DDT-Net,Image forensics, image tampering detection, image manipulation detection, noise flow,UNet 3+,Bayar
 
 ### Contact
 + Jim Wong (202208540021083@ctgu.edu.cn)
