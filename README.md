@@ -225,11 +225,11 @@ __Note: The input image size can be modified in line 64 of predict.py. In this e
     <td>0.67</td>
     <td>66.88</td>
     <td>83.54</td>
-    <td>66.79</td>
+    <td><b>66.79</b></td>
     <td>0.75</td>
     <td>100.0</td>
     <td>0.56</td>
-    <td>67.65</td>
+    <td><b>67.65</b></td>
     <td>0.9</td>
     <td>95.14</td>
     <td>13.89</td>
